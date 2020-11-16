@@ -1,6 +1,6 @@
 # AdaGNN
 
-# AdaGNN
+
 Open-source code for ''Graph Neural Networks with Adaptive Frequency Response Filter''.
 
 ## Environment
