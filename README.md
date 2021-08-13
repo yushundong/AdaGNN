@@ -1,7 +1,7 @@
 # AdaGNN
 
 
-Open-source code for ''Graph Neural Networks with Adaptive Frequency Response Filter''.
+Open-source code for ''AdaGNN: Graph Neural Networks with Adaptive Frequency Response Filter''.
 
 ## Environment
 Experiments are carried out on a Titan RTX with Cuda 10.1.
