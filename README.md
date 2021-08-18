@@ -16,7 +16,7 @@ Pre-trained models on BlogCatalog can be found in pre_trained_examples.
 
 Configure as you like:
 ```
-python main.py --layers 8 --mode s --dataset Flickr --hidden 128 --dropout 0.1
+python main.py --layers 8 --mode s --dataset BlogCatalog --hidden 128 --dropout 0.1
 ```
 Log example:
 
