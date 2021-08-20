@@ -72,7 +72,7 @@ if args.cuda:
     idx_val = idx_val.cuda()
     idx_test = idx_test.cuda()
 
-if args.layers > 2:
+if args.layers >= 2:
     # Pre-train the first & last layer for faster convergence
     pre_train(args.cuda, args.dataset, args.hidden, adj, features, labels, idx_train, idx_val, gamma)
     if args.mode == 's':
