@@ -3,6 +3,20 @@
 
 Open-source code for ''AdaGNN: Graph Neural Networks with Adaptive Frequency Response Filter''.
 
+## Citation
+
+If you find it useful, please cite our paper. Thank you!
+
+```
+@inproceedings{dong2021adagnn,
+  title={AdaGNN: Graph Neural Networks with Adaptive Frequency Response Filter},
+  author={Dong, Yushun and Ding, Kaize and Jalaian, Brian and Ji, Shuiwang and Li, Jundong},
+  booktitle={Proceedings of the 30th ACM International Conference on Information \& Knowledge Management},
+  pages={392--401},
+  year={2021}
+}
+```
+
 ## Environment
 Experiments are carried out on a Titan RTX with Cuda 10.1.
 
